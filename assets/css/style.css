@@ -1,0 +1,67 @@
+body{
+	background-color:pink;
+
+	/* background-color:rgb(242, 232, 252); */
+}
+
+h1 {
+	font-size: 28px;
+  font-family: 'Quicksand', serif;
+}
+
+h2 {
+	font-family: 'Quicksand', serif;
+}
+
+.list {
+	font-family: Georgia;
+	width: 450px;
+	display: flex;
+	justify-content: center;
+	border: solid white 2px;
+	margin: auto;
+	margin-top: 50px;
+
+	/* font-family: 'Quicksand', serif;
+	margin: 0 auto;
+	padding: 1.5rem;
+	margin: 0 auto;
+	border: 1px dotted rgb(40, 35, 35);
+	background-color: rgb(253, 251, 242); */
+}
+
+.profile {
+	/* font-family: Georgia;
+	margin: 0 auto;
+	padding: 1.5rem; */
+	
+	font-family: Georgia;
+	width: 450px;
+	display: flex;
+	justify-content: center;
+	border: solid white 2px;
+	margin: auto;
+	margin-top: 50px;
+}
+
+a {
+  font-size: 18px;
+	color: green;
+	font-family: 'Quicksand', serif;
+}
+
+main > ul li{
+	list-style-type: none;
+}
+
+main > li{
+	list-style-type: none;
+}
+
+.list > ul li{
+	list-style-type: none;
+}
+
+.list > li{
+	list-style-type: none;
+}
